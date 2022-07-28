@@ -25,3 +25,5 @@ for (int i = 0; i < arr1.Length; i++)
         count++;
     }
 }
+
+Print(arr2);
